@@ -22,6 +22,9 @@ $logs = $conn->query($query);
     <title>لوحة تحكم Agri-Tech | مالك</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="manifest" href="manifest.json">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#d32f2f">
     <style>
         :root { --primary: #22c55e; --bg: #020617; --card: #1e293b; --text: #f8fafc; }
         body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', Tahoma, Geneva, sans-serif; margin: 0; display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
