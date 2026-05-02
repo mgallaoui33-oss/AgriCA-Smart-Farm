@@ -1,0 +1,21 @@
+{
+    "name": "AgriCA Smart Farm",
+    "short_name": "AgriCA",
+    "description": "تطبيق مالك لإدارة السانية بالذكاء الاصطناعي",
+    "start_url": "index.php",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#d32f2f",
+    "icons": [
+      {
+        "src": "logo_ca.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "logo_ca.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
